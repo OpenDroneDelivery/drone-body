@@ -1,0 +1,7 @@
+<cfd_design_studies version="19.2.20190802" user_name="Naman Gaming">
+ <design_study folder="C:/Users/Naman Gaming/Desktop/Drone Body_1" instance_id="id_not_defined" study_id="446feb88-bd44-422f-bd92-513d9bd6e400" name="Drone Body_1">
+  <design model_id="Drone Body.cfdsmt" lock_status="false" launcher_type="CP_FUSION" name="Design 1">
+   <analysis name="Scenario 1"/>
+  </design>
+ </design_study>
+</cfd_design_studies>
